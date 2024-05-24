@@ -11,6 +11,11 @@ I am a passionate JavaScript Developer who loves creating innovative web and mob
 - 🎨 **Design & Animations**: Framer Motion, GSAP, Figma
 - ☁️ **Cloud & Hosting**: AWS, DigitalOcean, Vercel
 - 📈 **Ads & Analytics**: Google Ads
+- 🔧 **Backend Development**: Node.js, Express.js
+- ⚙️ **Version Control**: Git, GitHub, GitLab
+- 🧪 **Testing & Debugging**: Jest, Mocha, Cypress, Debugging Tools
+- 📦 **Build Tools**: Webpack, Babel, npm, Yarn
+- 🛠 **CI/CD**: Jenkins, CircleCI, GitHub Actions
 
 ## 💼 Professional Skills
 - **React Native**: Build cross-platform mobile apps with native performance.
@@ -20,6 +25,11 @@ I am a passionate JavaScript Developer who loves creating innovative web and mob
 - **Flutter**: Create beautiful, natively compiled applications for mobile from a single codebase.
 - **Responsive Design**: Ensure your app looks great on all devices with Tailwind CSS and Styled-Components.
 - **Database Management**: Efficiently handle data with MySQL and MongoDB.
+- **Backend Development**: Create robust server-side applications with Node.js and Express.js.
+- **Version Control**: Collaborate seamlessly with Git, GitHub, and GitLab.
+- **Testing & Debugging**: Ensure code quality with Jest, Mocha, and Cypress.
+- **Build Tools**: Optimize your development workflow with Webpack and Babel.
+- **CI/CD**: Automate your build and deployment processes with Jenkins, CircleCI, and GitHub Actions.
 
 ## 🚀 What I Offer
 - **On-Time Delivery**: Always meet deadlines with high-quality work.
